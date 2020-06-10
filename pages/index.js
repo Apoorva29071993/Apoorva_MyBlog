@@ -140,7 +140,7 @@ export default function LandingPage(props) {
 
   const defaultOptions = {
     loop: true,
-    autoplay: false,
+    autoplay: true,
     animationData: animationData,
     rendererSettings: {
       preserveAspectRatio: "xMidYMid slice"
@@ -160,7 +160,7 @@ export default function LandingPage(props) {
         />
         <meta
           property="og:title"
-          content="Bringing West Coast Technology to the Midwest | Arc Development"
+          content="Bringing West Coast Technology to India | Apoorva Development"
           key="og:title"
         />
         <meta property="og:url" key="og:url" content="arc.com" />
